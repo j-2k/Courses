@@ -1,5 +1,5 @@
 # All Courses notes
-I plan to do some things in the future to prepare for my master's in case I decide to pursue one in the near future.
+My personal notes about some courses & plan to do some things in the future to prepare for my master's in case I decide to pursue one in the near future.
 
 ### Specialization is to be of the ones below ONLY.
 - Electrical Engineering
@@ -26,3 +26,5 @@ After some research the favourability is as follows:
 - Accelerated Computer Science Fundamentals: https://www.coursera.org/specializations/cs-fundamentals
   - Difficulty: Intermediate 
   - Length: Medium 
+
+- My linkedin probably has a better structure for all courses completed.
