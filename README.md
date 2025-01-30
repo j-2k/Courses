@@ -12,15 +12,20 @@ After some research the favourability is as follows:
 # Courses & Gameplan
 - Computer Architecture: https://www.coursera.org/learn/comparch
   - Difficulty: Advanced 
-  - Length: Long 
+  - Length: Long
 - Interactive Computer Graphics: https://www.coursera.org/learn/interactive-computer-graphics
   - Difficulty: Intermediate 
-  - Length: Medium 
+  - Length: Medium
 - Mathematics Roadmap: https://github.com/ossu/math
   - Difficulty: Hell
   - Length: ∞
   
 - Optional choice to more courses can be found at [MITOpenCourseWare](https://ocw.mit.edu/)
+
+# Work-Mandatory Courses
+- Udemy: React & Typescript the practical guide [Udemy Link](https://www.udemy.com/course/react-typescript-the-practical-guide)
+  - Difficulty: Easy - Medium
+  - Length: Small
 
 # Courses Already Completed!
 - Accelerated Computer Science Fundamentals: https://www.coursera.org/specializations/cs-fundamentals
